@@ -1,0 +1,30 @@
+.article_title {
+	TEXT-ALIGN: center; LINE-HEIGHT: 50px; MARGIN-TOP: 30px; COLOR: #bd3610; FONT-SIZE: 18px; FONT-WEIGHT: bold
+}
+.article_note {
+	BORDER-BOTTOM: #dcdcdc 1px dotted; TEXT-ALIGN: center; BORDER-LEFT: #dcdcdc 1px dotted; LINE-HEIGHT: 26px; MARGIN-TOP: 8px; MARGIN-BOTTOM: 20px; HEIGHT: 26px; COLOR: #666; FONT-SIZE: 14px; BORDER-TOP: #dcdcdc 1px dotted; BORDER-RIGHT: #dcdcdc 1px dotted
+}
+.article_note A {
+	COLOR: #666
+}
+.article_content {
+	COLOR: #222222; FONT-SIZE: 14px
+}
+.article_content IMG {
+	MAX-WIDTH: 720px; OVERFLOW: hidden
+}
+.article_content P {
+	TEXT-JUSTIFY: inter-ideograph; TEXT-ALIGN: justify; LINE-HEIGHT: 22px; TEXT-INDENT: 2em; FONT-SIZE: 14px
+}
+.article_share {
+	TEXT-ALIGN: right; MARGIN-TOP: 40px; FLOAT: right
+}
+.main_wykh_slt01 {
+	WIDTH: 323px
+}
+.main_wykh_title_05 .main_wykh_btn {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 80px; HEIGHT: 30px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#mylistcode {
+	DISPLAY: none
+}

@@ -1,0 +1,123 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Î¢ÈíÑÅºÚ, Arial, Helvetica, "ËÎÌå"; FONT-SIZE: 13px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Î¢ÈíÑÅºÚ, Arial, Helvetica, "ËÎÌå"; FONT-SIZE: 13px; PADDING-TOP: 0px
+}
+UL LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+A {
+	TEXT-DECORATION: none; transition-property: color; -moz-transition: 0.3s; -webkit-transition: 0.3s; -o-transition: 0.3s; transition: 0.3s
+}
+A:hover {
+	TEXT-DECORATION: none
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.only_screen {
+	DISPLAY: none
+}
+.top_bg {
+	WIDTH: 100%; BACKGROUND: url(/qichep/images/top_bg_01.png) repeat-x; HEIGHT: 106px
+}
+.top {
+	MARGIN: 0px auto; WIDTH: 1025px; BACKGROUND: url(/qichep/images/top_bg_02.png) no-repeat; HEIGHT: 106px; CLEAR: both
+}
+.top_logo {
+	MARGIN-TOP: 9px; WIDTH: 301px; FLOAT: left; HEIGHT: 90px
+}
+.top_searchtel {
+	MARGIN-TOP: 25px; FLOAT: right; MARGIN-RIGHT: 30px
+}
+.top_search {
+	WIDTH: 186px; BACKGROUND: url(/qichep/images/search_bg.png) no-repeat; HEIGHT: 32px; CLEAR: both
+}
+.top_search INPUT {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 28px; MARGIN-TOP: 2px; TEXT-INDENT: 0.5em; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 135px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 28px; COLOR: #9c9c9c; MARGIN-LEFT: 2px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.top_search BUTTON {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN-TOP: 6px; WIDTH: 20px; BACKGROUND: url(/qichep/images/ss.png) no-repeat; FLOAT: right; HEIGHT: 20px; BORDER-TOP: medium none; CURSOR: pointer; MARGIN-RIGHT: 6px; BORDER-RIGHT: medium none
+}
+.top_tel {
+	LINE-HEIGHT: 30px; MARGIN-TOP: 13px; TEXT-INDENT: 2em; WIDTH: 166px; BACKGROUND: url(/qichep/images/tel_news.png) no-repeat left center; HEIGHT: 30px; COLOR: #ffffff; MARGIN-LEFT: 18px; FONT-SIZE: 19px
+}
+.top_weixin {
+	MARGIN-TOP: 9px; FLOAT: right
+}
+.top_weixin_title {
+	MARGIN-TOP: 4px; COLOR: #fff; FONT-SIZE: 10px
+}
+.top_nav_bg {
+	WIDTH: 100%; BACKGROUND: #e60012; HEIGHT: 51px
+}
+#top_nav {
+	MARGIN: 0px auto; WIDTH: 1025px; HEIGHT: 51px
+}
+#top_nav UL LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 51px; WIDTH: 108px; FLOAT: left; FONT-SIZE: 16px
+}
+#top_nav UL LI A {
+	WIDTH: 108px; DISPLAY: block; BACKGROUND: url(/qichep/images/nav_li_line.png) no-repeat right center; COLOR: #222222
+}
+#top_nav UL LI A:hover {
+	WIDTH: 108px; DISPLAY: block; COLOR: #f19c37
+}
+#top_nav UL LI A.now {
+	COLOR: #f19c37
+}
+.nav {
+	Z-INDEX: 99; POSITION: relative; WIDTH: 100%; BACKGROUND: url(/qichep/images/nav_bg_02.png) repeat-x; HEIGHT: 51px
+}
+.nav-main {
+	MARGIN: 0px auto; WIDTH: 1025px; BACKGROUND: url(/qichep/images/nav_bg_02.png) repeat-x; HEIGHT: 48px
+}
+.nav-main > LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 48px; WIDTH: 108px; FLOAT: left; FONT-SIZE: 16px; CURSOR: pointer
+}
+.nav-main > LI A {
+	WIDTH: 108px; DISPLAY: block; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; BACKGROUND: url(/qichep/images/nav_li_line.png) no-repeat right center; COLOR: #222222
+}
+.nav-main > LI A:hover {
+	WIDTH: 108px; DISPLAY: block; COLOR: #fff
+}
+.nav-main > LI A.now {
+	COLOR: #f19c37
+}
+.nav-main > LI:hover {
+	
+}
+.hidden-box {
+	BORDER-BOTTOM: #e6e4e4 1px solid; POSITION: absolute; BORDER-LEFT: #e6e4e4 1px solid; WIDTH: 107px; DISPLAY: none; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: #e6e4e4 1px solid
+}
+.hidden-box UL LI A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 51px; DISPLAY: block; BACKGROUND: #f1f1f1; HEIGHT: 51px; COLOR: #222222; FONT-SIZE: 14px; BORDER-TOP: #e4e3e3 1px solid; CURSOR: pointer
+}
+.hidden-box UL LI A:hover {
+	COLOR: #f19c37
+}
+.navlist {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1025px
+}
+.hidden-loc-center {
+	LEFT: 107px
+}
+.hidden-loc-us {
+	LEFT: 215px
+}
+.hidden-loc-info {
+	LEFT: 323px
+}
+.hidden-loc-rszn {
+	LEFT: 431px
+}
+.main_quick A {
+	COLOR: #222222
+}
+.main_quick A:hover {
+	COLOR: #f19c37
+}
